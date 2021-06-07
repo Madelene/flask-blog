@@ -13,3 +13,4 @@
 - Creates a sqlite database and uses SQLAlchemy to query the data
 - Uses packages to simplify imports
 - User Authentication
+- User Account and Profile Picture
