@@ -14,3 +14,4 @@
 - Uses packages to simplify imports
 - User Authentication
 - User Account and Profile Picture
+- Create, Update, and Delete Posts
