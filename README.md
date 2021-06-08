@@ -15,3 +15,4 @@
 - User Authentication
 - User Account and Profile Picture
 - Create, Update, and Delete Posts
+- Pagination and sorting
