@@ -17,3 +17,4 @@
 - Create, Update, and Delete Posts
 - Pagination and sorting
 - Reset password via email
+- Blueprints and Configuration
